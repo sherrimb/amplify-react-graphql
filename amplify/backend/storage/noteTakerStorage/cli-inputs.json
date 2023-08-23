@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteTakerStorage",
+  "policyUUID": "21adbcaa",
+  "bucketName": "amplifyreactgraphql6ec2d21be5a24ab19d66ce65f357",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
